@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+    <style>
+        img {
+          width: 300px;
+          border-radius: 8px;
+        }
+      </style>
+  </head>
+  <body>
+    <h2>1학년2반13번 이현우입니다.</h2><img src=""><p></p>
+    <img src="asd.png" alt="사진" />
+    <img src="/desktop/file/screenshot/asd.png" alt="사진" />
+    <h3>취미는 음악듣기, 웹툰보기이고 좋아하는 것은 낭만있고 멋있는거 좋아합니다.</h3><p></p>
+    <p></p>
+    <h3>프로필 : 치사하잖아</h3><p></p>
+    <h3>관심사 : 시</h3><p></p>
+    <h3>연락처 : 010-8682-3897</h3><p></p>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
